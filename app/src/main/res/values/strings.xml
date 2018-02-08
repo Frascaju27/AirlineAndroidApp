@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Airline_ProjectA3</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="Dismiss_Label">Dismiss</string>
+    <string name="Clear_All">CLEAR ALL</string>
+    <string name="Ok_Label">OK</string>
+    <string name="Clear_All_Label">CLEAR ALL</string>
+
+    <string-array name="Travel">
+        <item>Air Canada - $1165 </item>
+        <item>West Jet - $1345</item>
+        <item>Air Canada - $1465 </item>
+        <item>American Airlines - $1519</item>
+        <item>Air Canada - $1665 </item>
+        <item>American Airlines - $1919</item>
+        <item>American Airlines - $2019</item>
+    </string-array>
+</resources>
